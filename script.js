@@ -1,4 +1,4 @@
-//Already submitted day-6 task in day-6 ;
+//Already submitted day-6 task in day-6;
 //Solving problems using array functions on the rest countries' data.
 //a.Get all the countries from the Asia continent /region using the Filter function.
 
